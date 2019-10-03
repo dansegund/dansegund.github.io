@@ -1,0 +1,30 @@
+#main {
+  display: inline-block;
+  margin: 30px 5px;
+  background: gainsboro;
+  text-align: center;
+}
+  .centered{
+    text-align: center;
+  }  
+#title {
+  justify-content: flex-end;
+  text-align: center;
+}
+#image{
+  display: block;
+  max-width: 90%;
+  height: auto;
+  margin: auto;
+  padding: 0.75em;
+}
+#cite {
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+}
+#tribute-info {
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+}
