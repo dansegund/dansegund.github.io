@@ -1,33 +1,60 @@
 #main {
   display: inline-block;
-  margin: 30px 5px;
-  background: gainsboro;
+  margin: 1.5em 0.0075em;
+  background: rgba(220, 220, 220, 0.5);
   text-align: center;
+  border-radius: 0.4em;
 }
-  .centered{
+h3 {
+  margin-top: 3em;
+}
+.foot {
+  padding-bottom: 1em;
+}
+a {
+  color: green;
+}
+.centered{
     text-align: center;
+    font-family: arial;
   }  
 #title {
-  justify-content: flex-end;
+  font-family: sans-serif;
   text-align: center;
+  padding-top: 0.5em;
+  font-size: 2.5em;
 }
 #image{
   display: block;
-  max-width: 90%;
+  max-width: 100%;
   height: auto;
-  margin: auto;
+  margin: 0;
+  }
+#img-div {
+  display: block;
+  max-width: 100%;
+  background: #fff;
+  margin: 0.75em;
   padding: 0.75em;
 }
-#img-div {
-  background: #fff;
-}
 #cite {
-  display: inline-block;
-  width: 50%;
+  display: block;
+  margin: auto;
+  padding-top: 2em;
+  width: 80%;
   text-align: left;
+  font-style: italic;
+  line-height: 1.4;
 }
 #tribute-info {
-  display: inline-block;
-  width: 50%;
+  display: block;
+  margin: auto;
+  width: 80%;
   text-align: left;
+  font-family: sans-serif;
+  line-height: 120%;
+}
+#img-caption {
+  display: block;
+  padding: 0.5em;
 }
