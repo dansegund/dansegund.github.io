@@ -31,7 +31,7 @@ a {
   margin: auto;
   }
 #img-div {
-  display: block;
+  display: flex;
   max-width: 100%;
   background: #fff;
   margin: 0.75em;
