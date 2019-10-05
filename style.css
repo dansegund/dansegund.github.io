@@ -49,8 +49,8 @@ a {
 }
 #tribute-info {
   display: block;
-  margin: auto;
-  width: 15em;
+  margin: 0 auto 15px auto;
+  max-width: 550px;
   
   text-align: left;
   font-family: sans-serif;
