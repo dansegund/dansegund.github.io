@@ -25,11 +25,9 @@ a {
   font-size: 2.5em;
 }
 #image{
-  clear: right;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  }
+ max-width: 100%;
+ margin: auto;
+}
 #img-div {
   display: flex;
   max-width: 100%;
