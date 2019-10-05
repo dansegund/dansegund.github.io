@@ -55,6 +55,6 @@ a {
   line-height: 120%;
 }
 #img-caption {
-  display: block;
+  clear: both;
   padding: 0.5em;
 }
