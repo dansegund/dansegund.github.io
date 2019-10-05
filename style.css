@@ -25,6 +25,7 @@ a {
   font-size: 2.5em;
 }
 #image{
+ display: block;
  max-width: 100%;
  margin: auto;
 }
